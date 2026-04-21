@@ -14,10 +14,13 @@ We specialize in security for real-time communications: VoIP and WebRTC systems.
 - [SIPVicious](https://github.com/enablesecurity/sipvicious) - VoIP/SIP security testing toolset
 - [WAFW00F](https://github.com/enablesecurity/wafw00f) - Web Application Firewall fingerprinting tool
 - [Awesome RTC Hacking](https://github.com/enablesecurity/awesome-rtc-hacking) - curated security resources for VoIP, WebRTC, and VoLTE
+- [DVRTC](https://github.com/enablesecurity/dvrtc) - intentionally vulnerable VoIP/WebRTC lab for security training and research
 
 ## Research
 
 We publish security advisories in <https://www.enablesecurity.com/advisories/> and pentest reports in [enablesecurity/reports](https://github.com/enablesecurity/reports).
+
+The [Enable Security blog](https://www.enablesecurity.com/blog/) covers our research and updates.
 
 The [RTCSec Newsletter](https://www.enablesecurity.com/blog/) covers real-time communications security news monthly.
 
